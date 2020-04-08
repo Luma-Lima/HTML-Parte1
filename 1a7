@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Luma Lima</title>
+<meta charset="UTF-8">
+<meta name="keywords" content="Section1, Section2, Section3, Section4, Aulas, Cores">
+<meta name="description" content="Este é meu primeiro site">
+<meta name="author" content="Luma Lima">
+<title>First Site</title>
+
 </head>
 <body>
 <nav>
@@ -9,29 +14,26 @@
 <nav>
 
 
-<section>
+<section id="Section1">
 <p><h1 style="color:DodgerBlue;">Olá pessoas, tudo bem?
 Este é meu primeiro projeto para site, espero que vocês gostem.
 Obrigada!</h1></p>
-</section>
-<section>
-<p><h1 style="color:MediumSeaGreen;">O que é FTC? kkkkkk</h1></p>
-</section>
-<section>
+
+<p><h1 style="color:MediumSeaGreen;">O UNIBH fica no bairro buritis e é uma faculdade com conceito alto no MEC, além de possuir uma estrutura que atende todos os cursos.</h1></p>
+
 <p><h1 style="color:Gray;">As aulas são ministradas via ferramenta online Zoom, onde podemos nos ver por vídeo e podemos compartilhar a tela do commpudor ou do celular com o professor, o mesmo também tem acesso a todas essas funcionalidades. </h1></p>
-</section>
-<section>
+
 <p><h1 style="color:SlateBlue;">A turma possui aproximadamento 40 alunos e de nome eu conheço dois, a <b>Lorraine</b> e a <strong>Flávia</strong>. kkkk</h1></p>
 </section>
 
-<section>
+<section id="Section2">
 <p style="font-size:300%;">"Uma pessoa só cresce quando é capaz de superar as dificuldades. </p>
 <p style="font-size:300%;">Proteção é importante... </p>
 <p style="font-size:300%;">mas há certas coisas que deve se aprender...</p>
 <p style="font-size:300%;"> por esforço próprio."</p>
 </section>
 
-<section>
+<section id="Section3">
 <p style="font-size:100%; text-align:center;">=========</p>
 <p style="font-size:100%; text-align:center;"> \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ </p>
 <p style="font-size:100%; text-align:center;"> \&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ </p>
@@ -42,25 +44,21 @@ Obrigada!</h1></p>
 <p style="font-size:100%; text-align:center;">=========</p>
 </section>
 
-<section>
+<section id="Section4">
 <h2>Pais</h2>
 
 <ul style="list-style-type:circle;">
   <li>Efigênia</li>
   <li>Antonio</li>
 </ul> 
-</section>
 
-<section>
 <h2>Irmãos</h2>
 
 <ul style="list-style-type:disc;">
   <li>Luma</li>
   <li>Lucas</li>
 </ul>
-</section>   
-
-<section>
+  
 <h2>Cores</h2>
 <ol type="1">
   <li>Branco</li>
@@ -75,3 +73,4 @@ Obrigada!</h1></p>
 </footer>
 
 </body>
+</html>
