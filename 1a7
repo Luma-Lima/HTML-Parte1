@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Luma Lima</title>
+</head>
+<body>
+<p><h1 style="color:Tomato;">Desejo que o professor Ramom continue ministrando a aula de modo que possamos construir um site. Espero adquiri conhecimento para aplicar no mercado de trabalho</h1></p>
+<p><h1 style="color:DodgerBlue;">Olá pessoas, tudo bem?
+Este é meu primeiro projeto para site, espero que vocês gostem.
+Obrigada!</h1></p>
+<p><h1 style="color:MediumSeaGreen;">O que é FTC? kkkkkk</h1></p>
+<p><h1 style="color:Gray;">As aulas são ministradas via ferramenta online Zoom, onde podemos nos ver por vídeo e podemos compartilhar a tela do commpudor ou do celular com o professor, o mesmo também tem acesso a todas essas funcionalidades. </h1></p>
+<p><h1 style="color:SlateBlue;">A turma possui aproximadamento 40 alunos e de nome eu conheço dois, a <b>Lorraine</b> e a <strong>Flávia</strong>. kkkk</h1></p>
+
+
+<p style="font-size:300%;">"Uma pessoa só cresce quando é capaz de superar as dificuldades. </p>
+<p style="font-size:300%;">Proteção é importante... </p>
+<p style="font-size:300%;">mas há certas coisas que deve se aprender...</p>
+<p style="font-size:300%;"> por esforço próprio."</p>
+
+
+<p style="font-size:100%; text-align:center;">=========</p>
+<p style="font-size:100%; text-align:center;"> \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ </p>
+<p style="font-size:100%; text-align:center;"> \&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ </p>
+<p style="font-size:100%; text-align:center;"> \&nbsp;&nbsp;/ </p>
+<p style="font-size:100%; text-align:center;">/.\</p>
+<p style="font-size:100%; text-align:center;">/&nbsp;&nbsp;.&nbsp;&nbsp;\</p>
+<p style="font-size:100%; text-align:center;">/&nbsp;&nbsp;&nbsp;&nbsp; ... &nbsp;&nbsp;&nbsp;&nbsp;\</p>
+
+<p style="font-size:100%; text-align:center;">=========</p>
+
+<h2>Pais</h2>
+
+<ul style="list-style-type:circle;">
+  <li>Efigênia</li>
+  <li>Antonio</li>
+</ul> 
+
+<h2>Irmãos</h2>
+
+<ul style="list-style-type:disc;">
+  <li>Luma</li>
+  <li>Lucas</li>
+</ul>   
+
+<h2>Cores</h2>
+<ol type="1">
+  <li>Branco</li>
+  <li>Preto</li>
+  <li>Azul</li>
+</ol>
+</body>
